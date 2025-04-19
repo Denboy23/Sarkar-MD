@@ -11,9 +11,9 @@
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description": "Paste here session ID that you have scanned",
+      "description": "Sarkarmd$g8WawpY8",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "MODE": {
       "description": "Enter 'true' for public mode, 'no' for private mode",
